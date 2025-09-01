@@ -1,1 +1,1 @@
-# Synape_Interview_Tasks
+# Synapse_Interview_Tasks
